@@ -2,8 +2,8 @@
 session_start();
 set_time_limit(0);
 error_reporting(0);
-$refcode = "WQABFG";
-$jml = 100;
+$refcode = "VBYZXI";
+$jml = 1000;
 include 'Signature.php';
 	if(isset($refcode))
 	{
